@@ -1,0 +1,264 @@
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7992438808722038
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7982684515899584
+http://dbpedia.org/resource/Elephants_Can_Remember
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7955775030789909
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7999803458088286
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7880910402869179
+http://dbpedia.org/resource/Death_in_the_Clouds
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.793628367128981
+http://dbpedia.org/resource/I_Have_Landed
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7939979747177727
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7938077352073007
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.793498402152628
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7936281346383943
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/The_Murder_of_Roger_Ackroyd
+The Pearson Coefficient is : 0.7924106752773439
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7978584973057765
+http://dbpedia.org/resource/Elephants_Can_Remember
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7984706847017468
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7991506967956779
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.789011217926666
+http://dbpedia.org/resource/Death_in_the_Clouds
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7972524732455143
+http://dbpedia.org/resource/I_Have_Landed
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7972650749245754
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7973518917760141
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.797098800196579
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7972523191920277
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/The_Mystery_of_the_Blue_Train
+The Pearson Coefficient is : 0.7963476172715377
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.7950024328186612
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.7984785605915574
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.7951090962366661
+http://dbpedia.org/resource/Death_in_the_Clouds
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.793148202418294
+http://dbpedia.org/resource/I_Have_Landed
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.7952354956287021
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.7935487753130205
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.7938244634609648
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.793148282461199
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Elephants_Can_Remember
+The Pearson Coefficient is : 0.7908610488694577
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.7954003885338711
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.7885565945426938
+http://dbpedia.org/resource/Death_in_the_Clouds
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.7998090449599458
+http://dbpedia.org/resource/I_Have_Landed
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.7994825255004826
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.7998142859618789
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.7997091268768842
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.7998090330087623
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+"http://dbpedia.org/resource/Life,_the_Universe_and_Everything"
+The Pearson Coefficient is : 0.799231848038746
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+The Pearson Coefficient is : 0.7884523304703401
+http://dbpedia.org/resource/Death_in_the_Clouds
+-------------------------------------------
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+The Pearson Coefficient is : 0.7934308801598559
+http://dbpedia.org/resource/I_Have_Landed
+-------------------------------------------
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+The Pearson Coefficient is : 0.7939613079957484
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+The Pearson Coefficient is : 0.7936488830314511
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+The Pearson Coefficient is : 0.7933013414377237
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+The Pearson Coefficient is : 0.7934306482189097
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Murder_in_Mesopotamia
+The Pearson Coefficient is : 0.7921749764605162
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/Death_in_the_Clouds
+The Pearson Coefficient is : 0.7870834454356525
+http://dbpedia.org/resource/I_Have_Landed
+-------------------------------------------
+http://dbpedia.org/resource/Death_in_the_Clouds
+The Pearson Coefficient is : 0.7913955084810916
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Death_in_the_Clouds
+The Pearson Coefficient is : 0.7876213653233877
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+http://dbpedia.org/resource/Death_in_the_Clouds
+The Pearson Coefficient is : 0.7894264520765977
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/Death_in_the_Clouds
+The Pearson Coefficient is : 0.7870841699381498
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Death_in_the_Clouds
+The Pearson Coefficient is : 0.7829079912216967
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/I_Have_Landed
+The Pearson Coefficient is : 0.7994745489032578
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+-------------------------------------------
+http://dbpedia.org/resource/I_Have_Landed
+The Pearson Coefficient is : 0.799980968577076
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+http://dbpedia.org/resource/I_Have_Landed
+The Pearson Coefficient is : 0.7998014465413547
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/I_Have_Landed
+The Pearson Coefficient is : 0.7999999999769093
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/I_Have_Landed
+The Pearson Coefficient is : 0.7996714116623503
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+The Pearson Coefficient is : 0.799613996123457
+http://dbpedia.org/resource/Ice_and_Fire
+-------------------------------------------
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+The Pearson Coefficient is : 0.7996721525498323
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+The Pearson Coefficient is : 0.7994746751315477
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Falling_%28Provoost_novel%29
+The Pearson Coefficient is : 0.798504903751907
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/Ice_and_Fire
+The Pearson Coefficient is : 0.7997829262326681
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+-------------------------------------------
+http://dbpedia.org/resource/Ice_and_Fire
+The Pearson Coefficient is : 0.7999809686046413
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/Ice_and_Fire
+The Pearson Coefficient is : 0.7996132094998872
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+The Pearson Coefficient is : 0.7998015735976757
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+-------------------------------------------
+http://dbpedia.org/resource/International_Encyclopedia_of_Human_Geography
+The Pearson Coefficient is : 0.7989905431638074
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
+http://dbpedia.org/resource/The_Dream_Merchant_%28novel%29
+The Pearson Coefficient is : 0.7996712706149542
+http://dbpedia.org/resource/The_Tolkien_Reader
+-------------------------------------------
